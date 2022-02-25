@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-23T14:19:44 PST" name="Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]]]]]]]" finished-at="2022-02-23T14:20:22 PST" duration-ms="38196">
+    <groups>
+    </groups>
+    <test started-at="2022-02-23T14:19:44 PST" name="Test(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)" finished-at="2022-02-23T14:20:22 PST" duration-ms="38196">
+      <class name="comm.fierbase.tests.RandomScenario.RandomScenarioTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:comm.fierbase.tests.RandomScenario.RandomScenarioTest@618425b5]" started-at="2022-02-23T14:19:44 PST" name="setUp" finished-at="2022-02-23T14:19:44 PST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="initialSetUp(java.lang.String,java.lang.reflect.Method)[pri:0, instance:comm.fierbase.tests.RandomScenario.RandomScenarioTest@618425b5]" started-at="2022-02-23T14:19:44 PST" name="initialSetUp" finished-at="2022-02-23T14:19:52 PST" duration-ms="7538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void comm.fierbase.tests.RandomScenario.RandomScenarioTest.verifyTheTabCustomizaionT35()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetUp -->
+        <test-method signature="verifyTheTabCustomizaionT35()[pri:0, instance:comm.fierbase.tests.RandomScenario.RandomScenarioTest@618425b5]" started-at="2022-02-23T14:19:52 PST" name="verifyTheTabCustomizaionT35" finished-at="2022-02-23T14:20:21 PST" duration-ms="29461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheTabCustomizaionT35 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:comm.fierbase.tests.RandomScenario.RandomScenarioTest@618425b5]" started-at="2022-02-23T14:20:21 PST" name="tearDown" finished-at="2022-02-23T14:20:22 PST" duration-ms="750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTheTabCustomizaionT35 status=SUCCESS method=RandomScenarioTest.verifyTheTabCustomizaionT35()[pri:0, instance:comm.fierbase.tests.RandomScenario.RandomScenarioTest@618425b5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endUp()[pri:0, instance:comm.fierbase.tests.RandomScenario.RandomScenarioTest@618425b5]" started-at="2022-02-23T14:20:22 PST" name="endUp" finished-at="2022-02-23T14:20:22 PST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+      </class> <!-- comm.fierbase.tests.RandomScenario.RandomScenarioTest -->
+    </test> <!-- Test(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed) -->
+  </suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]]]]]]] -->
+</testng-results>
