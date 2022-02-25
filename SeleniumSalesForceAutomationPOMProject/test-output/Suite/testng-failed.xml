@@ -13,6 +13,34 @@
           <include name="tearDown"/>
         </methods>
       </class> <!-- comm.fierbase.tests.RandomScenario.RandomScenarioTest -->
+      <class name="com.salesForce.test.Contacts.ContactTest">
+        <methods>
+          <include name="endUp"/>
+          <include name="setUp"/>
+          <include name="initialSetUp"/>
+          <include name="T28CheckMyContactView"/>
+          <include name="T30createNewViewErrorMessage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.salesForce.test.Contacts.ContactTest -->
+      <class name="com.salesForce.tests.Home.UserMenuDropDownTest">
+        <methods>
+          <include name="userMenuVerification"/>
+          <include name="endUp"/>
+          <include name="setUp"/>
+          <include name="initialSetUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.salesForce.tests.Home.UserMenuDropDownTest -->
+      <class name="com.salesForce.tests.Account.AccountTest">
+        <methods>
+          <include name="mergeAccountT13"/>
+          <include name="endUp"/>
+          <include name="setUp"/>
+          <include name="initialSetUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.salesForce.tests.Account.AccountTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
