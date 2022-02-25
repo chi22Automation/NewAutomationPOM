@@ -4,12 +4,12 @@
   <test thread-count="5" name="Test">
   <parameter name="browser" value="chrome"></parameter>
     <classes>
-    <!--    <class name="com.salesForce.tests.Login.LoginTest"/> -->
-      <!--   <class name="com.salesForce.tests.Home.UserMenuDropDownTest"/>-->
-      <!--  <class name="com.salesForce.tests.Account.AccountTest"/>-->
-       <!-- <class name="com.salesForce.tests.Opportunity.OpportunityTest"/>
+        <class name="com.salesForce.tests.Login.LoginTest"/>
+       <class name="com.salesForce.tests.Home.UserMenuDropDownTest"/>
+          <class name="com.salesForce.tests.Account.AccountTest"/>
+   <class name="com.salesForce.tests.Opportunity.OpportunityTest"/>
                 <class name="com.salesForce.test.Leads.LeadTest"/>
-      <class name="com.salesForce.test.Contacts.ContactTest"/>-->
+      <class name="com.salesForce.test.Contacts.ContactTest"/>
        <class name="comm.fierbase.tests.RandomScenario.RandomScenarioTest"/>
      
     </classes>
