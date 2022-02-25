@@ -30,6 +30,10 @@
 			<artifactId>extentreports</artifactId>
 			<version>3.1.5</version>
 		</dependency>
+		<dependency>    
+		 <groupId>com.apple</groupId>     
+		 <artifactId>AppleJavaExtensions</artifactId>     
+		 <version>1.4</version> </dependency>
 		<dependency>
 		
   <groupId>org.apache.maven.plugins</groupId>
@@ -58,7 +62,7 @@
 			<configuration>
 				 <testFailureIgnore>true</testFailureIgnore>
 				<suiteXmlFiles>
-					<suiteXmlFile>testng1.xml</suiteXmlFile>
+					<suiteXmlFile>testng.xml</suiteXmlFile>
 				</suiteXmlFiles>
 			</configuration>
 		</plugin>

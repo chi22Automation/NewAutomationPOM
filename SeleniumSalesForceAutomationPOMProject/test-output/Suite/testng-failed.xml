@@ -6,13 +6,10 @@
     <classes>
       <class name="comm.fierbase.tests.RandomScenario.RandomScenarioTest">
         <methods>
-          <include name="verifyLastNEditedReflectedEveryWhereT34"/>
           <include name="endUp"/>
           <include name="verifyTheTabCustomizaionT35"/>
           <include name="setUp"/>
-          <include name="blockingAnEventIntheCalenderT36"/>
           <include name="initialSetUp"/>
-          <include name="blockingAnEventIntheCalenderT37"/>
           <include name="tearDown"/>
         </methods>
       </class> <!-- comm.fierbase.tests.RandomScenario.RandomScenarioTest -->
